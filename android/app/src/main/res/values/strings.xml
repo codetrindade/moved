@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moveme Driver</string>
+    <string name="facebook_app_id">356141988355025</string>
+    <string name="fb_login_protocol_scheme">fb356141988355025</string>
+</resources>
